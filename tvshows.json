@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "title": "The Kapil Sharma Show",
+        "genre": [
+            "Comedy",
+            "Talk Show"
+        ],
+        "releaseYear": 2016,
+        "rating": 8.1,
+        "poster": "kapil_sharma_show.jpg",
+        "description": "A celebrity comedy talk show hosted by Kapil Sharma.",
+        "seasons": 4
+    },
+    {
+        "id": 2,
+        "title": "T Paay Dhor",
+        "genre": [
+            "Comedy",
+            "Family"
+        ],
+        "releaseYear": 2020,
+        "rating": 7.8,
+        "poster": "t_paay_dhor.jpg",
+        "description": "A light-hearted Bangla family comedy drama focusing on daily life fun.",
+        "seasons": 3
+    },
+    {
+        "id": 3,
+        "title": "Gopal Bhar",
+        "genre": [
+            "Comedy",
+            "Historical"
+        ],
+        "releaseYear": 2015,
+        "rating": 8.0,
+        "poster": "gopal_bhar.jpg",
+        "description": "A comedic retelling of stories about the legendary court jester Gopal Bhar.",
+        "seasons": 6
+    },
+    {
+        "id": 4,
+        "title": "Comedy Nights with Kapil",
+        "genre": [
+            "Comedy",
+            "Talk Show"
+        ],
+        "releaseYear": 2013,
+        "rating": 8.5,
+        "poster": "comedy_nights_kapil.jpg",
+        "description": "Kapil Sharma hosts a hilarious comedy show featuring top celebrities.",
+        "seasons": 3
+    },
+    {
+        "id": 5,
+        "title": "Mirakkel",
+        "genre": [
+            "Comedy",
+            "Reality Show"
+        ],
+        "releaseYear": 2006,
+        "rating": 7.9,
+        "poster": "mirakkel.jpg",
+        "description": "A Bangla stand-up comedy competition show.",
+        "seasons": 10
+    },
+    {
+        "id": 6,
+        "title": "Bhabiji Ghar Par Hain!",
+        "genre": [
+            "Comedy",
+            "Sitcom"
+        ],
+        "releaseYear": 2015,
+        "rating": 8.3,
+        "poster": "bhabiji_ghar_par_hain.jpg",
+        "description": "A comedy about two neighboring couples and their hilarious interactions.",
+        "seasons": 9
+    },
+    {
+        "id": 7,
+        "title": "Tarak Mehta Ka Ooltah Chashmah",
+        "genre": [
+            "Comedy",
+            "Family"
+        ],
+        "releaseYear": 2008,
+        "rating": 8.9,
+        "poster": "tmkoc.jpg",
+        "description": "A family sitcom centered around the residents of Gokuldham society.",
+        "seasons": 15
+    },
+    {
+        "id": 8,
+        "title": "Back Benchers",
+        "genre": [
+            "Comedy",
+            "Talk Show"
+        ],
+        "releaseYear": 2019,
+        "rating": 7.5,
+        "poster": "back_benchers.jpg",
+        "description": "A fun talk-show where celebrities play school-themed games.",
+        "seasons": 1
+    },
+    {
+        "id": 9,
+        "title": "Dance Bangla Dance",
+        "genre": [
+            "Reality",
+            "Dance"
+        ],
+        "releaseYear": 2007,
+        "rating": 7.8,
+        "poster": "dance_bangla_dance.jpg",
+        "description": "A popular dance competition show in Bengal.",
+        "seasons": 12
+    },
+    {
+        "id": 10,
+        "title": "Dadagiri Unlimited",
+        "genre": [
+            "Game Show"
+        ],
+        "releaseYear": 2009,
+        "rating": 8.0,
+        "poster": "dadagiri_unlimited.jpg",
+        "description": "A quiz and game show hosted by Sourav Ganguly.",
+        "seasons": 9
+    },
+    {
+        "id": 11,
+        "title": "Hasi Infinite",
+        "genre": [
+            "Comedy",
+            "Sketch Show"
+        ],
+        "releaseYear": 2021,
+        "rating": 7.6,
+        "poster": "hasi_infinite.jpg",
+        "description": "A modern Bangla sketch comedy show with trending humor.",
+        "seasons": 2
+    },
+    {
+        "id": 12,
+        "title": "Comedy Factory",
+        "genre": [
+            "Stand-Up",
+            "Reality"
+        ],
+        "releaseYear": 2021,
+        "rating": 7.4,
+        "poster": "comedy_factory.jpg",
+        "description": "A stand-up comedy competition featuring upcoming comedians.",
+        "seasons": 1
+    },
+    {
+        "id": 13,
+        "title": "The Kapil Sharma Show",
+        "genre": [
+            "Comedy",
+            "Talk Show"
+        ],
+        "releaseYear": 2016,
+        "rating": 8.1,
+        "poster": "https://i.ytimg.com/vi/sISz8MuSgRQ/maxresdefault.jpg",
+        "description": "A celebrity comedy talk show hosted by Kapil Sharma.",
+        "seasons": 4
+    },
+    {
+        "id": 14,
+        "title": "The Kapil Sharma Show",
+        "genre": [
+            "Comedy",
+            "Talk Show"
+        ],
+        "releaseYear": 2016,
+        "rating": 8.1,
+        "poster": "https://mir-s3-cdn-cf.behance.net/projects/404/a1babe127695443.Y3JvcCw3OTIsNjE5LDcsNQ.jpg",
+        "description": "A celebrity comedy talk show hosted by Kapil Sharma.",
+        "seasons": 4
+    }
+]
