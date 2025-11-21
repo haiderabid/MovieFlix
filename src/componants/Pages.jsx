@@ -75,7 +75,7 @@ export default function Pages() {
                         <p className="text-gray-300 mb-6">
                             Browse trending films, top-rated classics, and everything in between.
                         </p>
-                        <button className="px-6 py-3 bg-red-600 font-semibold rounded-lg hover:bg-red-500 transition">
+                        <button className="px-6  py-3 bg-red-600 font-semibold rounded-lg hover:bg-red-500 transition">
                             Explore Now
                         </button>
                     </div>
